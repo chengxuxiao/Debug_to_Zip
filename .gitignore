@@ -1,12 +1,2 @@
-/obj
-/obj/
 
-/bin/Debug
-/bin/Debug/
 
-/bin/Release
-/bin/Release/
-
-*.xlsx
-*.csv
-*.xls
