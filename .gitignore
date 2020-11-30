@@ -1,11 +1,11 @@
-/git/obj
-/git/obj/
+/obj
+/obj/
 
-/git/bin/Debug
-/git/bin/Debug/
+/bin/Debug
+/bin/Debug/
 
-/git/bin/Release
-/git/bin/Release/
+/bin/Release
+/bin/Release/
 
 *.xlsx
 *.csv
