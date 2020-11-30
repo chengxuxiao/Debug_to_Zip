@@ -1,7 +1,11 @@
-/Excelavg/obj/Debug
-/Excelavg/obj/Debug/
-/Excelavg/bin/Debug
-/Excelavg/bin/Debug/
+/git/obj
+/git/obj/
+
+/git/bin/Debug
+/git/bin/Debug/
+
+/git/bin/Release
+/git/bin/Release/
 
 *.xlsx
 *.csv
