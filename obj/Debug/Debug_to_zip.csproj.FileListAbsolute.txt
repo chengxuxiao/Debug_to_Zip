@@ -1,0 +1,8 @@
+S:\Project_VS\Debug_to_zip\Debug_to_zip\bin\Debug\Debug_to_zip.exe.config
+S:\Project_VS\Debug_to_zip\Debug_to_zip\bin\Debug\Debug_to_zip.exe
+S:\Project_VS\Debug_to_zip\Debug_to_zip\bin\Debug\Debug_to_zip.pdb
+S:\Project_VS\Debug_to_zip\Debug_to_zip\bin\Debug\ICSharpCode.SharpZipLib.dll
+S:\Project_VS\Debug_to_zip\Debug_to_zip\obj\Debug\Debug_to_zip.csproj.CoreCompileInputs.cache
+S:\Project_VS\Debug_to_zip\Debug_to_zip\obj\Debug\Debug_to_zip.csproj.CopyComplete
+S:\Project_VS\Debug_to_zip\Debug_to_zip\obj\Debug\Debug_to_zip.exe
+S:\Project_VS\Debug_to_zip\Debug_to_zip\obj\Debug\Debug_to_zip.pdb
